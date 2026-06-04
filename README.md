@@ -10,7 +10,7 @@ Built as part of a finance and data science portfolio, grounded in hands-on expe
 
 - Fetches income statement, balance sheet, and cash flow data for any publicly listed ticker
 - Computes 12+ financial ratios grouped by category
-- Scores each category (0–2) and produces an overall health grade (Strong / Fair / Weak)
+- Scores each category (0-2) and produces an overall health grade (Strong / Fair / Weak)
 - Generates three charts: Revenue vs Net Income Trend, Health Scorecard, and Multi-Period Ratio Trends
 - Defensive data layer handles naming inconsistencies and rate-limiting across international tickers
 

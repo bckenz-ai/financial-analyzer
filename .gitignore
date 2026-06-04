@@ -1,0 +1,20 @@
+# Ignore virtual environments completely
+venv/
+.venv/
+env/
+
+# Ignore Python internal caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+
+# Ignore locally generated charts and report dumps
+reports/
+*.png
+*.html
+
+# Ignore OS system specific metadata files
+.DS_Store
+Thumbs.db

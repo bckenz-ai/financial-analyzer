@@ -1,6 +1,7 @@
 # Financial Statement Analyzer
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bckenz-ai/financial-analyzer/blob/main/notebooks/exploration.ipynb)
 
-A Python CLI tool for fundamental analysis of publicly traded companies. Pulls financial statements via Yahoo Finance (yfinance), computes 12+ key ratios across profitability, liquidity, solvency, and valuation, and generates three visual reports to assess financial health.
+> A Python CLI tool for fundamental analysis of publicly traded companies. Pulls financial statements via Yahoo Finance (yfinance), computes 12+ key ratios across profitability, liquidity, solvency, and valuation, and generates three visual reports to assess financial health.
 
 Built as part of a finance and data science portfolio, grounded in hands-on experience with technical and fundamental market analysis.
 
